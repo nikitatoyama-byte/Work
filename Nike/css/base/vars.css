@@ -1,0 +1,13 @@
+:root{
+ --font-family: "Montserrat" , sans-serif;
+
+    --main-color: #fff;
+    --accent-color: #ffea00;
+    --bg-color: #2a2a29;
+    --secondary-color: #c9c69b;
+      --container-width: 1240px;
+      --container-padding: 15px;
+     --transition-time: 0.3s;
+     --shadow-color: #181817;
+}
+
